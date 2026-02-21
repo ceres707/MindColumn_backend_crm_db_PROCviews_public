@@ -34,8 +34,9 @@ _PROC-INFO_: `wf-PN11-SMPROFILE_explain`\
 _TABLE_: `profile` _multiplied by_: **3x**`SM_strat` (3 potential uses each, plus modifications and **semantic** filters applied to **`implicationType`**) , _explained with_:`profileKeywords`\
 _calculated fields_: `pRealm`, `implicationType`\
 **cartesian product with posible cases, plus applied filter length**
-- [x] Semantic _LOGIC (no data...)_ reviewed against `legacy Excel and Publisher data` _ID flow scheme_ (up to 2026-02-21Z)\
-_TECHNICAL STATUS_: __WORKING 100%. Relatively complex logic made easy but not thorough analysis__
+  - [x] Semantic _LOGIC (no data...)_ reviewed against `legacy Excel and Publisher data` _ID flow scheme_ (up to 2026-02-21Z)
+
+_TECHNICAL STATUS_: __WORKING 100%. Relatively complex logic made easy but not thorough analysis__\
 *Realm logic:* secret as the Coca-Cola formula
 
 _PROC-INFO_: `wf-PN17-OVERBOOKING`\
